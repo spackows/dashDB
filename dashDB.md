@@ -19,7 +19,7 @@ lastupdated: "2017-06-16"
 {:tip: .tip}
 {:pre: .pre}
 
-#Getting started with dashDB
+#Getting started with IBM dashDB
 {: #dashDB}
 
 <b>Note:</b> On June 20, 2017, IBM is renaming <b>dashDB for Transactions</b> to <b>Db2 on Cloud</b>. Over the coming weeks, documents will be updated to reflect this name change.
