@@ -28,7 +28,7 @@ lastupdated: "2017-06-16"
 ##Interfaces
 {: #interfaces}
 
-You can work with your {{site.data.keyword.dashdbshort_notm}} database in four ways:
+You can work with your {{site.data.keyword.dashdbshort_notm}} database in four ways: 
 {: shortdesc}
 
    * {{site.data.keyword.dashdbshort_notm}} web console
